@@ -1,0 +1,9 @@
+
+config MTK_AH1887
+	bool "MTK_AH1887 for MediaTek package"
+	default n
+	help
+	It support different type sensor
+	in this platform. If this option
+	is set, it will support ambient
+	and light sensor MTK_AH1887.
